@@ -10,7 +10,8 @@
 
 
 // Ez a konyvtar mukodik az M0-as verzioval is hibatlanul.
-#include <DHT11.h>
+//#include <Arduino.h>
+#include "headers/DHT11.h"
 
 #define sensor_pin 2 // A DHT data pinje
 
