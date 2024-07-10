@@ -9,6 +9,8 @@ mélyebb ismeretet szerezni a témában.
 Az első napi nagyprojekt egy bővebb verzióját fogjátok megtalálni [itt](ledfuzer), ezt nem tudtuk befejezni, de kipróbáltuk a digitális hang-érzékelőt
 a közlekedési lámpánál, de ennek az alkalmazása nem különbözik itt.
 
+### Interrupt függvény a hangérzékelő jelzéséhez
+
 Ez tartalmaz egy olyan különleges függvényt amit nem részleteztünk a tábor során, ez pedig az interrupt függvény. Ez egy olyan kódrészlet, ami
 valamilyen külső/belső megváltozásra meghívódik. Mi itt az egyik lábhoz írtuk, méghozzá a hangérzékelő lábához. Ha jött nekünk jelzés, hogy érzékelt a szenzor, akkor meghívódik
 ez a függvény, ezzel elérve hogy csak a tapsra tudjon ki/be kapcsolni. Ezt a táborban egy egyszerű feltételes elágazással oldottuk meg, de ez egy biztosabb működéssel biró megoldás.
