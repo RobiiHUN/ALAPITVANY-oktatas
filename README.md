@@ -25,8 +25,9 @@ Ha a második nap teljes projektjét szeretnétek felhasználni, akkor [itt](lcd
 
 ## Összefoglalás
 
-Ha a jövőben is szeretnétek ESP32/Arduino-val foglalkozni, akkor ezeke a projektek 
+Ha a jövőben is szeretnétek ESP32/Arduino-val foglalkozni, akkor ezeket a projekteket használjátok fel bátran, direkt úgy állítottuk össze, hogy ezekkel lefedjük a legfontosabb témaköröket,
+amikre a jövőben saját projektjeitekben szükségetek lesz.  
 
 > [!NOTE]
-> Ha bármilyen elektronikai/informatikai témával kapcsolatban kérdésetek lenne, keressetek meg minket nyugodtan, szívesen segítünk nektek. :)
+> Ha bármilyen elektronikai/informatikai témával kapcsolatban kérdésetek lenne, keressetek meg minket nyugodtan, szívesen segítünk nektek. Sok sikert a továbbiakban! :)
 
