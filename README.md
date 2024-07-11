@@ -1,6 +1,6 @@
 # EleQtRooM Tábor 2024
 
-Az itt található Github Repository-ban találhatjátok meg a forráskódokat a projektekhez. Minden amit megcsináltunk keddes és szerdán
+Az itt található Github Repository-ban találhatjátok meg a forráskódokat a projektekhez. Mindent amit megcsináltunk kedden és szerdán
 azokat, kommentezve megtalálhatjátok itt. Egy-két helyen részletesebben leírjuk a használt függvényeket, methódusokat, ha a jövőben szeretnétek
 mélyebb ismeretet szerezni a témában.
 
