@@ -6,11 +6,10 @@ mélyebb ismeretet szerezni a témában.
 
 ## Első nap
 
+A közlekedési lámpa forráskódját [itt](kozlekedesi_lampa) találhatjátok meg. 
+
 Az első napi nagyprojekt egy bővebb verzióját fogjátok megtalálni [itt](ledfuzer), ezt nem tudtuk befejezni, de kipróbáltuk a digitális hang-érzékelőt
 a közlekedési lámpánál, de ennek az alkalmazása nem különbözik itt.
-
-> [!IMPORTANT]
-> Sajnos a közlekedési lámpa kódját újra kell írnunk, valószínüleg nem mentettük le, ezért ezt még a héten újraírjuk, de ha ez nemm történne meg jelezzetek mindenképpen!
 
 ### Interrupt függvény a hangérzékelő jelzéséhez
 
