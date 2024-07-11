@@ -17,8 +17,6 @@ Ez tartalmaz egy olyan különleges függvényt amit nem részleteztünk a tábo
 valamilyen külső/belső megváltozásra meghívódik. Mi itt az egyik lábhoz írtuk, méghozzá a hangérzékelő lábához. Ha jött nekünk jelzés, hogy érzékelt a szenzor, akkor meghívódik
 ez a függvény, ezzel elérve hogy csak a tapsra tudjon ki/be kapcsolni. Ezt a táborban egy egyszerű feltételes elágazással oldottuk meg, de ez egy biztosabb működéssel biró megoldás.
 
-A közlekedési lámpát tartalmazo .ino-t még keressük azt hamarosan feltöltjük ide, egy kozlekedesi_lampa nevű mappába.
-
 ## Második nap
 
 A második napon elkészített projekt egy picit nagyobb témakört fed le ezért több szegmensre bontottuk, hogy egyesével is ki tudjátok próbálni.
